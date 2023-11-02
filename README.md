@@ -19,7 +19,7 @@ We compare the results from Linear regression, Lasso regression, Ridge Regressio
 
 - [The report](https://github.com/SamPJain/Health_Insurance_Cost_Prediction/blob/master/IT203_Project_Group_40.pdf)
 - [The main notebook implemented in Python](https://github.com/SamPJain/Health_Insurance_Cost_Prediction/blob/master/Cost_Prediction-Final-notebook.ipynb)
-- [Dataset](https://github.com/SamPJain/Health-Insurance-Cost-Prediction/blob/master/insurance.csv)
+- [Dataset](https://github.com/SamPJain/Health_Insurance_Cost_Prediction/blob/master/insurance.csv)
 
 We have implemented linear regression from scratch on a different dataset also (while we were learning the concepts ,this is not the main notebook). [link to the notebook](https://github.com/SamPJain/Health_Insurance_Cost_Prediction/blob/master/Learning_Phase/Linear%20Regression%20with%202%20variables.ipynb)
 
